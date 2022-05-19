@@ -8,6 +8,7 @@
 
 ### Настройка
 В файлах subscribe.php, hook.php и /bot/config.php указать токены Телеграм бота, ключ Google apis и данные для подключения к БД MySQL.
+В файле firebase-messaging-sw.js указать свой SenderID. В файле /js/firebase_subscribe.js то-же самое.
 Предварительно залить скелет БД из mono.sql.
 
 ### Как пользоваться
